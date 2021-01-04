@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-old/static/css/main.6426c58f.chunk.css",
+    "main.js": "/portfolio-old/static/js/main.5c125228.chunk.js",
+    "main.js.map": "/portfolio-old/static/js/main.5c125228.chunk.js.map",
+    "runtime-main.js": "/portfolio-old/static/js/runtime-main.eaf292d1.js",
+    "runtime-main.js.map": "/portfolio-old/static/js/runtime-main.eaf292d1.js.map",
+    "static/js/2.244f3606.chunk.js": "/portfolio-old/static/js/2.244f3606.chunk.js",
+    "static/js/2.244f3606.chunk.js.map": "/portfolio-old/static/js/2.244f3606.chunk.js.map",
+    "index.html": "/portfolio-old/index.html",
+    "precache-manifest.89d56ff487cea4af5d70f947d0b1ccbb.js": "/portfolio-old/precache-manifest.89d56ff487cea4af5d70f947d0b1ccbb.js",
+    "service-worker.js": "/portfolio-old/service-worker.js",
+    "static/css/main.6426c58f.chunk.css.map": "/portfolio-old/static/css/main.6426c58f.chunk.css.map",
+    "static/js/2.244f3606.chunk.js.LICENSE.txt": "/portfolio-old/static/js/2.244f3606.chunk.js.LICENSE.txt",
+    "static/media/azeem.jpg": "/portfolio-old/static/media/azeem.c1676b76.jpg",
+    "static/media/App.css": "/portfolio-old/static/media/hero-bg.55354fb8.png",
+    "static/media/contact-1.png": "/portfolio-old/static/media/contact-1.ad272e2a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaf292d1.js",
+    "static/js/2.244f3606.chunk.js",
+    "static/css/main.6426c58f.chunk.css",
+    "static/js/main.5c125228.chunk.js"
+  ]
+}
